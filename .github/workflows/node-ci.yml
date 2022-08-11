@@ -1,0 +1,19 @@
+name: Node CI
+on: push
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Repo cloning
+      uses: actions/checkout@v3
+    - run: npm ci
+    - run: make lint
+    - run: make test
+  windows:
+    runs-on: windows-latest
+    steps:
+    - name: Repo cloning
+      uses: actions/checkout@v3
+    - run: npm ci
+    - run: make lint
+    - run: make test
