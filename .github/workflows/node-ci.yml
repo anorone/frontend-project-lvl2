@@ -9,6 +9,12 @@ jobs:
     - run: npm ci
     - run: make lint
     - run: make test
+    - name: Coverage upload
+      uses: paambaati/codeclimate-action@v3.0.0
+      env:
+        CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+      with:
+        coverageCommand: make coverage
   windows:
     runs-on: windows-latest
     steps:
