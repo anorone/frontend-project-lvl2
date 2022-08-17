@@ -4,4 +4,9 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/06e2fe615b7d98f7aff1/maintainability)](https://codeclimate.com/github/anorone/frontend-project-lvl2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/06e2fe615b7d98f7aff1/test_coverage)](https://codeclimate.com/github/anorone/frontend-project-lvl2/test_coverage)
 
+## Demo
+### JSON
 [![asciicast](https://asciinema.org/a/512567.svg)](https://asciinema.org/a/512567)
+
+### YAML
+[![asciicast](https://asciinema.org/a/515427.svg)](https://asciinema.org/a/515427)
