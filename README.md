@@ -13,4 +13,8 @@
 [![asciicast](https://asciinema.org/a/515427.svg)](https://asciinema.org/a/515427)
 
 ### Nested structures
+#### Stylish format
 [![asciicast](https://asciinema.org/a/517621.svg)](https://asciinema.org/a/517621?cols=242&rows=48)
+
+#### Plain format
+[![asciicast](https://asciinema.org/a/517864.svg)](https://asciinema.org/a/517864?cols=220&rows=35)
