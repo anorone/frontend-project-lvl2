@@ -18,3 +18,6 @@
 
 #### Plain format
 [![asciicast](https://asciinema.org/a/517864.svg)](https://asciinema.org/a/517864?cols=220&rows=35)
+
+#### JSON format
+[![asciicast](https://asciinema.org/a/518106.svg)](https://asciinema.org/a/518106)
