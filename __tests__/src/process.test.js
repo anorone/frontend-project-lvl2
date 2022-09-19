@@ -1,9 +1,11 @@
 import readFixture from '../../src/fixture.js';
 import process from '../../src/process.js';
 
+// eslint-disable-next-line
 let results;
 
 beforeAll(() => {
+  // eslint-disable-next-line
   results = readFixture('results').split('\n\n\n');
 });
 
